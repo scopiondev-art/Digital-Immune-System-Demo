@@ -1,3 +1,4 @@
+Author: Mirza (13-year-old learning programming)
 # Digital Immune System Demo
 
 Instead of blocking threats directly, the program uses multiple “sensors” that watch for abnormal behavior and increase a suspicion score when unusual activity is detected.
