@@ -55,4 +55,4 @@ Copyright 2026 RealScorpionDev.
 
 See the [LICENSE](LICENSE) and [NOTICE](NOTICE) files for more information.
 
-##THIS PROJECT WAS MADE WITH ALOT OF USE OF AI
+#THIS PROJECT WAS MADE WITH ALOT OF USE OF AI
