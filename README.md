@@ -54,3 +54,5 @@ This project is licensed under the Apache License 2.0.
 Copyright 2026 RealScorpionDev.
 
 See the [LICENSE](LICENSE) and [NOTICE](NOTICE) files for more information.
+
+##THIS PROJECT WAS MADE WITH ALOT OF USE OF AI
